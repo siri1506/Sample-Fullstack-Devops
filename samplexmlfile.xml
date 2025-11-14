@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<company>
+    <employee id="101">
+        <name>Srihitha Ravicheetu</name>
+        <role>DevOps Engineer</role>
+        <skills>
+            <skill>GitLab CI/CD</skill>
+            <skill>AWS EKS</skill>
+            <skill>Terraform</skill>
+            <skill>Docker</skill>
+        </skills>
+    </employee>
+
+    <employee id="102">
+        <name>John Doe</name>
+        <role>Mobile DevOps Engineer</role>
+        <skills>
+            <skill>Fastlane</skill>
+            <skill>Bitrise</skill>
+            <skill>Android CI/CD</skill>
+        </skills>
+    </employee>
+</company>
